@@ -1,0 +1,9 @@
+summaries/
+*.pt
+*.zip
+*.txt
+
+__pycache__/
+*.ipynb_checkpoints/
+*.log
+*.tmp
